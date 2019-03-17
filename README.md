@@ -15,4 +15,6 @@ Then run testdata_merge.py & merge.py. They will generate train data and test da
 Last, run arima.py or lgbm.py. The prediction will be stored in the submissions folder.
 
 ## Result(RMSLE)
-ARIMA: Private 0.612, Public 0.580 LGBM: Private0.540, Public 0.502
+ARIMA: Private 0.612, Public 0.580
+
+LGBM: Private0.540, Public 0.502
